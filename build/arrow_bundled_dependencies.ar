@@ -1,0 +1,4 @@
+CREATE /home/roettger/projects/arrow/build/release/libarrow_bundled_dependencies.a
+ADDLIB /home/roettger/projects/arrow/build/jemalloc_ep-prefix/src/jemalloc_ep/dist//lib/libjemalloc_pic.a
+SAVE
+END

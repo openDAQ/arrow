@@ -1,0 +1,4 @@
+CREATE /home/roettger/projects/arrow/build/release/libarrow_bundled_dependencies.a
+ADDLIB $<TARGET_FILE:jemalloc::jemalloc>
+SAVE
+END

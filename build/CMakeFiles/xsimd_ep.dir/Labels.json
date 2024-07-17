@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/roettger/projects/arrow/build/CMakeFiles/xsimd_ep"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/CMakeFiles/xsimd_ep.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/CMakeFiles/xsimd_ep-complete.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-build.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-configure.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-download.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-install.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-mkdir.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-patch.rule"
+		},
+		{
+			"file" : "/home/roettger/projects/arrow/build/src/xsimd_ep-stamp/xsimd_ep-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xsimd_ep"
+		],
+		"name" : "xsimd_ep"
+	}
+}
