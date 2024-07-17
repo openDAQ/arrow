@@ -1,3 +1,0 @@
-docker-compose
-pytest
-responses
